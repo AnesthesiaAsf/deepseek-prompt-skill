@@ -9,6 +9,10 @@ description: >-
   「加分隔符 / 加前提检查 / 要模型先验证假设」「deepseek 提示词模板 / 提示词合集」
   「模型没听懂我的意思」「这样问对吗」时使用。
   DeepSeek prompt optimizer v2 with delimiter isolation, output contracts and assumption gating.
+license: MIT
+metadata:
+  version: "2.0.0"
+  author: AnesthesiaAsf
 ---
 
 # DeepSeek Prompt v2 —— 指令优化器 + 提示词合集
