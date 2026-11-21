@@ -1,0 +1,11 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# 本地草稿与测试产物
+*.local.md
+scratch/
+*.tmp
